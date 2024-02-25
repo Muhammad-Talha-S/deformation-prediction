@@ -1,0 +1,18 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB test_8
+Abaqus 2022.HF6
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 5 tokens from Flexnet server ulic01b1.muc.
+<765 out of 1130 licenses remain available>.
+Begin Analysis Input File Processor
+Wed 30 Aug 2023 12:50:18 PM CEST
+Run pre
+Wed 30 Aug 2023 12:50:20 PM CEST
+Abaqus Error: Analysis Input File Processor exited with an error - Please see the 
+test_8.dat file for possible error messages if the file exists.
+Begin SIM Wrap-up
+Wed 30 Aug 2023 12:50:20 PM CEST
+Run SMASimUtility
+Wed 30 Aug 2023 12:50:21 PM CEST
+End SIM Wrap-up
+Abaqus/Analysis exited with errors
